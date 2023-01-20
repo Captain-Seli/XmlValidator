@@ -1,0 +1,15 @@
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\bin\Debug\net7.0\XmlValidator.exe
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\bin\Debug\net7.0\XmlValidator.deps.json
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\bin\Debug\net7.0\XmlValidator.runtimeconfig.json
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\bin\Debug\net7.0\XmlValidator.dll
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\bin\Debug\net7.0\XmlValidator.pdb
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\obj\Debug\net7.0\XmlValidator.csproj.AssemblyReference.cache
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\obj\Debug\net7.0\XmlValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\obj\Debug\net7.0\XmlValidator.AssemblyInfoInputs.cache
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\obj\Debug\net7.0\XmlValidator.AssemblyInfo.cs
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\obj\Debug\net7.0\XmlValidator.csproj.CoreCompileInputs.cache
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\obj\Debug\net7.0\XmlValidator.dll
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\obj\Debug\net7.0\refint\XmlValidator.dll
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\obj\Debug\net7.0\XmlValidator.pdb
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\obj\Debug\net7.0\XmlValidator.genruntimeconfig.cache
+C:\Users\capta\Desktop\Misc\Programming\CSharp\XmlValidator\XmlValidator\XmlValidator\obj\Debug\net7.0\ref\XmlValidator.dll
